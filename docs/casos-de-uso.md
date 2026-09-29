@@ -202,11 +202,9 @@ O usuário deverá estar autenticado.
 
 ### Status possíveis
 
-```text
-Pendente
-Aprovado
-Rejeitado
-```
+- Pendente
+- Aprovado
+- Rejeitado
 
 ### Resultado esperado
 
@@ -320,12 +318,10 @@ O usuário poderá remover o estabelecimento dos favoritos posteriormente.
 
 ### Ações possíveis
 
-```text
-Aprovar
-Rejeitar
-Solicitar alteração
-Remover
-```
+- Aprovar;
+- Rejeitar;
+- Solicitar alteração;
+- Remover.
 
 ---
 
